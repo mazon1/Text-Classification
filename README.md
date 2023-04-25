@@ -1,4 +1,4 @@
-#Text-Classification
+# Text-Classification
 Perform Text classification using DistilBERT
 
 This repository contains a machine learning model for text classification using the DistilBERT model. The model is built using the PyTorch deep learning framework and is trained to classify text data into predefined categories.
